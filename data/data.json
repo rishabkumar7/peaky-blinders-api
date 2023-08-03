@@ -69,7 +69,8 @@
     
   ],
   "cast": [
-    {"name": "Actor 1", "role": "Character 1"},
-    {"name": "Actor 2", "role": "Character 2"}
+    {"name": "Cillian Murphy", "role": "Thomas Shelby"},
+    {"name": "Paul Anderson", "role": "Arthur Shelby"},
+    {"name": "Joe Cole", "role": "John Shelby"}
   ]
 }
