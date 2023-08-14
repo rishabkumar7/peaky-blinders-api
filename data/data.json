@@ -3,12 +3,12 @@
     {
       "season_number": 1,
       "episodes": [
-        {"episode_number": 1, "title": "Episode 1", "description": "Description of Episode 1"},
-        {"episode_number": 2, "title": "Episode 2", "description": "Description of Episode 2"},
-        {"episode_number": 3, "title": "Episode 3", "description": "Description of Episode 3"},
-        {"episode_number": 4, "title": "Episode 4", "description": "Description of Episode 4"},
-        {"episode_number": 5, "title": "Episode 5", "description": "Description of Episode 5"},
-        {"episode_number": 6, "title": "Episode 6", "description": "Description of Episode 6"}
+        {"episode_number": 1, "title": "Episode 1", "description": "Thomas Shelby plans to fix a horse race; some guns turn up stolen."},
+        {"episode_number": 2, "title": "Episode 2", "description": "Thomas Shelby starts a feud with a gypsy family and finally meets with Inspector Campbell to talk about the stolen guns."},
+        {"episode_number": 3, "title": "Episode 3", "description": "Thomas is livid to find out that Ada and Freddie are married; IRA sympathizers tries to get information from Thomas about the stolen guns."},
+        {"episode_number": 4, "title": "Episode 4", "description": "Thomas attempts to make a deal with Campbell; The Peaky's war with the Lees intensifies."},
+        {"episode_number": 5, "title": "Episode 5", "description": "The Shelbys get a surprise visit by an almost forgotten relative. Thomas has one more dangerous plan with the cops."},
+        {"episode_number": 6, "title": "Episode 6", "description": "Tommy and the Peaky Blinders prepare for a big operation, that quickly becomes way trickier than they thought."}
       ]
     },
     {
