@@ -14,12 +14,12 @@
     {
       "season_number": 2,
       "episodes": [
-        {"episode_number": 1, "title": "Episode 1", "description": "Description of Episode 1"},
-        {"episode_number": 2, "title": "Episode 2", "description": "Description of Episode 2"},
-        {"episode_number": 3, "title": "Episode 3", "description": "Description of Episode 3"},
-        {"episode_number": 4, "title": "Episode 4", "description": "Description of Episode 4"},
-        {"episode_number": 5, "title": "Episode 5", "description": "Description of Episode 5"},
-        {"episode_number": 6, "title": "Episode 6", "description": "Description of Episode 6"}
+        {"episode_number": 1, "title": "Episode 1", "description": "When Birmingham crime boss Tommy Shelby's beloved Garrison pub is bombed, he finds himself blackmailed into murdering an Irish dissident."},
+        {"episode_number": 2, "title": "Episode 2", "description": "After murdering an Irish dissident, Tommy has no choice but to be a pawn in Inspector Campbell's treacherous political game."},
+        {"episode_number": 3, "title": "Episode 3", "description": "After joining London crime boss Alfie Solomons in a business venture, Tommy worries that Alfie's newly revealed volatility could pose a problem."},
+        {"episode_number": 4, "title": "Episode 4", "description": "The Peaky Blinders take over London's Eden Club; Sabini convinces his old adversary Alfie Solomons to join forces and eradicate the gang."},
+        {"episode_number": 5, "title": "Episode 5", "description": "The Peaky Blinders are under attack. Tommy's power base in London is obliterated, and both Arthur and Michael are arrested and imprisoned."},
+        {"episode_number": 6, "title": "Episode 6", "description": "Tommy plans to execute the mission given to him by Campbell: the assassination of a high-ranking member of the military establishment."}
       ]
     },
     {
