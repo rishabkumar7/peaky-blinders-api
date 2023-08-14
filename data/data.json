@@ -47,12 +47,12 @@
     {
       "season_number": 5,
       "episodes": [
-        {"episode_number": 1, "title": "Episode 1", "description": "Description of Episode 1"},
-        {"episode_number": 2, "title": "Episode 2", "description": "Description of Episode 2"},
-        {"episode_number": 3, "title": "Episode 3", "description": "Description of Episode 3"},
-        {"episode_number": 4, "title": "Episode 4", "description": "Description of Episode 4"},
-        {"episode_number": 5, "title": "Episode 5", "description": "Description of Episode 5"},
-        {"episode_number": 6, "title": "Episode 6", "description": "Description of Episode 6"}
+        {"episode_number": 1, "title": "Black Tuesday", "description": "In the wake of the Wall Street Crash, Tommy faces new dangers from unexpected quarters."},
+        {"episode_number": 2, "title": "Black Cats", "description": "As the Peaky Blinders come under fire, Tommy is warned about a traitor in his midst."},
+        {"episode_number": 3, "title": "Strategy", "description": "As the charismatic Mosley shows his hand, Tommy makes a treacherous new alliance."},
+        {"episode_number": 4, "title": "The Loop", "description": "Tommy agrees to dangerous new partnerships, and a Shelby party promises fireworks."},
+        {"episode_number": 5, "title": "The Shock", "description": "As Tommy reveals his intentions for Mosley, someone close to the Shelbys is targeted."},
+        {"episode_number": 6, "title": "Mr. Jones", "description": "Family tensions surface after an unexpected announcement. Tommy puts his plan for Oswald Mosley into action, but has he underestimated his opponent?"}
       ]
     },
     {
