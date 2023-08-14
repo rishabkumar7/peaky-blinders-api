@@ -58,12 +58,12 @@
     {
       "season_number": 6,
       "episodes": [
-        {"episode_number": 1, "title": "Episode 1", "description": "Description of Episode 1"},
-        {"episode_number": 2, "title": "Episode 2", "description": "Description of Episode 2"},
-        {"episode_number": 3, "title": "Episode 3", "description": "Description of Episode 3"},
-        {"episode_number": 4, "title": "Episode 4", "description": "Description of Episode 4"},
-        {"episode_number": 5, "title": "Episode 5", "description": "Description of Episode 5"},
-        {"episode_number": 6, "title": "Episode 6", "description": "Description of Episode 6"}
+        {"episode_number": 1, "title": "Black Day", "description": "Tommy sets off to North America, where the end of Prohibition brings new opportunities. But he faces new danger from an old adversary who is finally making his move."},
+        {"episode_number": 2, "title": "Black Shirt", "description": "Tommy gets involved in a power game with fascists, freedom fighters and Boston gangsters. As the players plan to double cross him, Tommy visits an old ally in Camden."},
+        {"episode_number": 3, "title": "Gold", "description": "Faced with devastating news, Tommy goes on a quest to discover who it was that placed a curse on his family. In Birmingham, Ada takes charge, and Arthur takes on some new recruits"},
+        {"episode_number": 4, "title": "Sapphire", "description": "Tommy establishes a connection between crime and political power that could alter the course of history. He also receives life-changing news from an unexpected source."},
+        {"episode_number": 5, "title": "The Road to Hell", "description": "In the light of extraordinary personal revelations, Tommy takes a course of action that will change everything. Meanwhile, his enemies' plans start to fall into place."},
+        {"episode_number": 6, "title": "Lock and Key", "description": "As the clouds of the coming storm gather, Tommy Shelby faces the consequences of his experiences and his actions"}
       ]
     }
     
@@ -71,6 +71,9 @@
   "cast": [
     {"name": "Cillian Murphy", "role": "Thomas Shelby"},
     {"name": "Paul Anderson", "role": "Arthur Shelby"},
-    {"name": "Joe Cole", "role": "John Shelby"}
+    {"name": "Joe Cole", "role": "John Shelby"},
+    {"name": "Sophie Rundle", "role": "Ada Shelby"},
+    {"name": "Helen McCrory", "role": "Polly Gray"},
+    {"name": "Finn Cole", "role": "Michael Gray"}
   ]
 }
