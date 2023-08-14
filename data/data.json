@@ -36,12 +36,12 @@
     {
       "season_number": 4,
       "episodes": [
-        {"episode_number": 1, "title": "Episode 1", "description": "Description of Episode 1"},
-        {"episode_number": 2, "title": "Episode 2", "description": "Description of Episode 2"},
-        {"episode_number": 3, "title": "Episode 3", "description": "Description of Episode 3"},
-        {"episode_number": 4, "title": "Episode 4", "description": "Description of Episode 4"},
-        {"episode_number": 5, "title": "Episode 5", "description": "Description of Episode 5"},
-        {"episode_number": 6, "title": "Episode 6", "description": "Description of Episode 6"}
+        {"episode_number": 1, "title": "The Noose", "description": "It is Christmas and Tommy Shelby receives a letter that makes him realize that he and every member of the family are in danger. He knows that it is time for the family to bury their differences and face the enemy together."},
+        {"episode_number": 2, "title": "Heathens", "description": "As the Shelbys come to terms with shocking events, Tommy makes a decision he may come to regret. Meanwhile, a bold new enemy makes his move."},
+        {"episode_number": 3, "title": "Blackbird", "description": "Luca Changretta understands the complexity of his enemy, as the weight of gypsy tradition hangs upon Arthur. But could there be a traitor within the Peaky Blinders' midst?"},
+        {"episode_number": 4, "title": "Dangerous", "description": "In a daring cat and mouse chase, will Tommy be outwitted by his enemies? And with the return of an old friend, Tommy tries to distract himself with other pursuits."},
+        {"episode_number": 5, "title": "The Duel", "description": "Tommy prepares himself as the bloody battle lines are drawn between the Peaky Blinders and Changretta. A deal is struck - with potentially devastating consequences."},
+        {"episode_number": 6, "title": "The Company", "description": "During the fight between Goliath and Bonnie Gold events escalate. Then Audrey Changretta appears at a funeral, waving a white flag. She proposes to declare the Vendetta between her family and the Shelbys settled. And she names her price."}
       ]
     },
     {
