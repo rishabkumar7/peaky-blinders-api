@@ -25,12 +25,12 @@
     {
       "season_number": 3,
       "episodes": [
-        {"episode_number": 1, "title": "Episode 1", "description": "Description of Episode 1"},
-        {"episode_number": 2, "title": "Episode 2", "description": "Description of Episode 2"},
-        {"episode_number": 3, "title": "Episode 3", "description": "Description of Episode 3"},
-        {"episode_number": 4, "title": "Episode 4", "description": "Description of Episode 4"},
-        {"episode_number": 5, "title": "Episode 5", "description": "Description of Episode 5"},
-        {"episode_number": 6, "title": "Episode 6", "description": "Description of Episode 6"}
+        {"episode_number": 1, "title": "Episode 1", "description": "It is Thomas Shelby's long-awaited wedding day. A mysterious visitor imperils the entire Shelby family, and Tommy finds himself pulled into a web of intrigue more lethal than anything he has yet encountered."},
+        {"episode_number": 2, "title": "Episode 2", "description": "Tommy discovers the extent of the mission given to him and the extreme lengths his new paymasters are willing to go to in their quest for power. Meanwhile his own family's activities lead to escalating danger in Birmingham."},
+        {"episode_number": 3, "title": "Episode 3", "description": "Tommy travels to Wales seeking absolution and uncovers a traitor in the Economic League. Michael develops a taste for guns. Arthur gets good news."},
+        {"episode_number": 4, "title": "Episode 4", "description": "Polly goes to confession, igniting a chain of events that reveals a trap being laid at the Shelbys' expense. Tommy plans an exit from dirty business."},
+        {"episode_number": 5, "title": "Episode 5", "description": "As the Russians test the Peaky Blinders, Tommy realises that he is seriously outmaneuvered. But he has an ace up his sleeve."},
+        {"episode_number": 6, "title": "Episode 6", "description": "As Tommy prepares to commit the most audacious crime of his career, an unexpected blow forces him to face his worst fears in a race against time."}
       ]
     },
     {
