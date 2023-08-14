@@ -52,12 +52,13 @@ async def get_episodes_by_season(season_number: int):
             return season["episodes"]
     raise HTTPException(status_code=404, detail="Season not found")
 
-@app.get("/api/episodes/{episode_number}/", response_model=Episode)
-async def get_episode_by_number(episode_number: int):
+@app.get("/api/seasons/{season_number}/episodes/{episode_number}/", response_model=Episode)
+async def get_episode_by_number(season_number: int, episode_number: int):
     for season in seasons_data:
-        for episode in season["episodes"]:
-            if episode["episode_number"] == episode_number:
-                return episode
+        if season["season_number"] == season_number:
+            for episode in season["episodes"]:
+                if episode["episode_number"] == episode_number:
+                    return episode
     raise HTTPException(status_code=404, detail="Episode not found")
 
 @app.get("/api/cast/", response_model=List[CastMember])
